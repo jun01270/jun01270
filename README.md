@@ -5,7 +5,7 @@
 <h3>🤗목표</h3>
 프론트엔드뿐만 아니라 백엔드까지 같이 운영하는 저만의 서비스를 운영하는것이 목표입니다. 
 
-🛠사용언어
+<h3>🛠사용언어</h3>
 <br/><br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
